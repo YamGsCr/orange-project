@@ -15,3 +15,13 @@ porém vou deixar para uma futura "aprimoração".
 ![print @keyframes](https://github.com/YamGsCr/orange-project/assets/141942339/8602afe5-17af-459e-a62b-35ef8e041c53)
 
 Pretendo começar a criar uma página "inicial" amanhã.
+
+
+# Dia 04/01/2024
+
+"Início da página inicial"
+
+Comecei a página inicial, acabei usando um criador de imagens para,
+fazer o banner, como não foi gerada nenhuma imagem da mesma cor de fundo
+do body, fiz usando as cores do fundo da imagem gerada, não fiz nada além disso,
+porém amanhã já sei como continuar.
